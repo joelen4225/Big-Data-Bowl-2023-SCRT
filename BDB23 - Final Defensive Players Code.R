@@ -1,3 +1,4 @@
+#This is the code used to calculate all of the information for the defensive players. It pulls data from multiple sources and also uses data frames in the 'DF_Dist.R' File.
 #Libraries
 library(tidyverse)
 library(gganimate)
