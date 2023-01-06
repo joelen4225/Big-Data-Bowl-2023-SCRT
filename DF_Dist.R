@@ -1,3 +1,4 @@
+#This R File is used to calculate average distance between pass rushers and QBs 2.3 seconds into each passing play
 library(tidyverse)
 library(gganimate)
 library(cowplot)
