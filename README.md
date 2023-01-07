@@ -2,6 +2,7 @@
 This is all the code our team used for our 2023 Big Data Bowl Submission. Based on the way we gave out tasks, the offense code is mainly in Python and the defense code is mainly in R. If you choose to mimic the code, you will need to update destinations of input files. Thank you and also check out our Kaggle notebook on the project.
 
 Defensive Code (in order of development):
+
     BDB23 - Final Defensive Players Code.R: Overall code for defense. Creates a linear regression to find actual success rating and predicted success rating. Creates a BPR (blockers per rusher). Finds the get off speed and 88% of max speed. Puls from other defensive file for distance.
     
     Dist_DF.R: Code used to calculate distance between rushers and the quarterback 2.2 seconds into the play.
